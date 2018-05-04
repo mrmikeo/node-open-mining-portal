@@ -340,11 +340,6 @@
 
 
 
-
-
-
-
-
 <!-- <center><div id="bottomCharts{{=pool}}" style="text-align:center;" align="center">
     <div class="chartWrapper" style="text-align:center;">
         <div class="chartLabel">Finders of the last {{=blockscomb.length}} blocks</div>
@@ -352,12 +347,6 @@
         <div class="chartHolder" id="pie{{=pool}}"><svg id="blocksPie{{=pool}}" style="display: block; margin: auto; text-align:center;"/></div>
     </div>
 </div></center> -->
-
-
-
-
-
-
 
 <!-- <script>
 
@@ -462,11 +451,11 @@ legend.append('text')
         return data[i].label;
     });
 </script>
-{{ } }} -->
+{{ } }}
 
 <script>
     document.querySelector('main').appendChild(document.createElement('script')).src = '/static/stats.js';
-</script>
+</script> -->
 
 
 <!-- <script>
