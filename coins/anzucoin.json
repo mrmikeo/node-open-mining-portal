@@ -1,0 +1,8 @@
+{
+    "name": "Anzucoin",
+    "symbol": "ANZU",
+    "algorithm": "scrypt",
+    "peerMagic": "9f263b54",
+    "peerMagicTestnet": "a1543a57"
+}
+
